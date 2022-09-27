@@ -4,6 +4,8 @@ import logging
 
 from musicbot.utils.make_config import make_config
 
+    BOT_VER = "V.3.2"
+
 # enable logging
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
