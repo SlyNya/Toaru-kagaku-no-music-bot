@@ -7,7 +7,7 @@
       "music",
       "bot"
     ],
-    "repository": "https://github.com/NewPremium/Toaru-kagaku-no-music-bot",
+    "repository": "https://github.com/SlyNya/Toaru-kagaku-no-music-bot",
     "env": {
       "ENV": {
         "description": "ANYTHING 으로 설정하면 환경변수가 활성화됩니다. 하지만 여기서 무엇을 설정해야 하는지 알기 위해서는 코드를 이해해야 합니다!",
